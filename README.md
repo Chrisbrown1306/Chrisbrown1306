@@ -22,7 +22,7 @@
 ## 📄 Resume
 
 📌 View / Download my resume here:  
-👉 [Om-Naik Resume](https://github.com/Chrisbrown1306/Chrisbrown1306/blob/main/Om_Naik_Resume.pdf)
+👉 [Om-Naik Resume](https://github.com/Chrisbrown1306/Chrisbrown1306/blob/main/Om_Resume.pdf)
 
 ## 💼 Experience
 
