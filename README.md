@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Naik
 
-🎯 **Full-Stack Developer** | 🤖 **AI/Agent Builder** | 🎓 **B.Tech ECE @ IIIT Nagpur ('27)** | 🔗 https://omnaik.vercel.app
+🎯 **Full-Stack Developer** | 🤖 **AI/Agent Builder** | 🎓 **B.Tech ECE @ IIIT Nagpur ('27)** | 🔗 https://omnaik.vercel.app | 📄 [Resume](https://github.com/Chrisbrown1306/Chrisbrown1306/blob/main/Resume.pdf)
 
 ## 💫 About Me
 
