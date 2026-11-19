@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Om Naik
 
-🎯 **Full-Stack Developer** | 🤖 **AI/Agent Builder** | 🎓 **B.Tech ECE @ IIIT Nagpur ('27)** | 🔗 https://omnaik.vercel.app 
+🎯 **Full-Stack Developer** | 🤖 **AI/Agent Builder** | 🎓 **B.Tech ECE @ IIIT Nagpur ('27)** | 🔗 your-portfolio-url-here
 
 ## 💫 About Me
 
-🔭 Currently building backend APIs and AI-powered features as a Backend Developer Intern at Munshot (FastAPI, GraphQL).
+🔭 Recently wrapped up a Backend Developer internship at Munshot, building APIs and AI-powered features (FastAPI, GraphQL). Now looking for my next role.
 
 🤝 Open to collaborating on AI agents, developer tools, and full-stack products with real users.
 
@@ -19,18 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-naik-88a214305/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnaik7415@gmail.com)
 
-## 📄 Resume
-
-📌 View / Download my resume here:  
-👉 [Om-Naik Resume](https://github.com/Chrisbrown1306/Chrisbrown1306/blob/main/Om_Resume.pdf)
-
 ## 💼 Experience
 
 ### Backend Developer Intern @ Munshot
-*May 2026 – Present | Remote*
-- Engineering scalable backend APIs with Python, FastAPI, and GraphQL
-- Automating web app testing with Selenium and optimizing SQL queries
-- Building AI-powered backend features with clean-code practices and agile workflows
+*May 2026 – Nov 2026 | Remote*
+- Engineered scalable backend APIs with Python, FastAPI, and GraphQL
+- Automated web app testing with Selenium and optimized SQL queries
+- Built AI-powered backend features with clean-code practices and agile workflows
 
 ### Java Full Stack Developer @ Amdox Technologies
 *Jan 2026 – Apr 2026 | Remote*
